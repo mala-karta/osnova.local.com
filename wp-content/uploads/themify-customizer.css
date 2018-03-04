@@ -1,0 +1,96 @@
+/* Themify Customize Styling */
+h1 {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:80px;
+ 
+}
+h2 {		font-weight:600;
+	font-size:46px;
+
+	color: #3b3b3b; 
+}
+h3 {		font-weight:600;
+	font-size:35px;
+ 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {	
+	height: 70px; 
+}
+#site-logo {		position:static;
+
+	top: 0px;
+	left: 5px; 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:normal;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e8dd48; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #e8dd48; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {	
+	height: 70px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {	
+	height: 70px; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+h2 {	
+	color: #3b3b3b; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {	
+	height: 70px; 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e8dd48; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #e8dd48; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+ }
